@@ -1,4 +1,8 @@
 # Module 12: Belly Button Biodiveristy
+
+![bacteria](https://user-images.githubusercontent.com/90812456/147422589-6da6c8af-df67-4f8d-9ff1-eb90fc0d6abe.jpg)
+
+
 ## Link for Github Website:
 https://juliabehling.github.io/Belly_Button_Biodiversity/
 
